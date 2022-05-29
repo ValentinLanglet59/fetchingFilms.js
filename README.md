@@ -4,6 +4,9 @@
 
 A little description to explain my work in this repo !
 
+![2022-05-29 18 25 43](https://user-images.githubusercontent.com/102190834/170880839-90f3abbb-e5e7-42e9-bef3-69c04d1dab72.gif)
+
+
 ## Features
 
 - Working with fetch and AJAX to get some data from an external source
