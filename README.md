@@ -12,7 +12,7 @@ A little description to explain my work in this repo !
 
 - Display the result with Bootstrap classes to train this framework
 
-- Add a form in order to make a dynamic search bar, fetching the result from [omdbapi] (https://www.omdbapi.com/)
+- Add a form in order to make a dynamic search bar, fetching the result from [omdbapi](https://www.omdbapi.com/)
 
 
 ### Experiences learned
@@ -23,3 +23,4 @@ A little description to explain my work in this repo !
 
 - trained Bootstrap
 
+It was fun :)
